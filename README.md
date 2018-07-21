@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+EdgarViewTool::Renderer.copyright 'Edgar Salinas', 'All rights reserved'
+```
 
 ## Development
 
